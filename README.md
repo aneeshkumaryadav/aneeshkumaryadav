@@ -7,9 +7,9 @@ I’m a AI/ML student building strong fundamentals in data structures, problem-s
 
 ## 🛠 Tech Stack
 
-**Languages :** C, C++, HTML, CSS, Python
-**Currently Learning :** Data Structures, OOP, Frontend Basics
-**Tools :** GitHub
+-**Languages :** C, C++, HTML, CSS, Python
+-**Currently Learning :** Data Structures, OOP, Frontend Basics
+-**Tools :** GitHub
 
 
 ## 📚 What I'm Working On
