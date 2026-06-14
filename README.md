@@ -26,9 +26,7 @@ I’m AI/ML student building strong fundamentals in data structures, problem-sol
 
 ## 📫 Connect
 
-LinkedIn: https://www.linkedin.com/in/aneesh-kumar-yadav-965b4133a  
-Email: anishyadav21082005@gmail.com
-
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faneesh-kumar-yadav-965b4133a)](https://www.linkedin.com/in/aneesh-kumar-yadav-965b4133a)
 <!--
 **aneeshkumaryadav/aneeshkumaryadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
