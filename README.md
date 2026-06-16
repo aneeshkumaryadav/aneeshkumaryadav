@@ -16,7 +16,8 @@ I’m AI/ML student building strong fundamentals in data structures, problem-sol
 
 - Strengthening DSA fundamentals  
 - Building small frontend projects with HTML & CSS  
-- Practicing problem-solving regularly  
+- Practicing problem-solving regularly
+- Building Portfolio webpage
 
 
 ## 🚀 Projects
