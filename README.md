@@ -2,20 +2,20 @@
 
 AI/ML Student | C/C++ Foundation | HTML & CSS | Exploring Python
 
-I’m AI/ML student building strong fundamentals in data structures, problem-solving, and software development. I focus on writing clean, efficient code and continuously improving through hands-on projects.
+I’m AI/ML student building strong fundamentals in data structures, problem-solving, and software development. I focus on writing clean, efficient code and continuously improving through learning and hands-on projects.
 
 
 ## 💻 Tech Stack
 
-**Languages :** C, C++, HTML, CSS, JavaScript, React, Python <br>
-**Currently Learning :** Data Structures, OOP, Frontend Basics <br>
-**Tools :** GitHub
+**Languages :** C, C++, HTML, CSS, JavaScript, React, Python, Java <br>
+**Currently Learning :** Data Structures, Frontend Development <br>
+**Tools :** GitHub, Git
 
 
 ## 📚 What I'm Working On
 
 - Strengthening DSA fundamentals  
-- Building small frontend projects with HTML & CSS  
+- Building small frontend projects with HTML, CSS, JavaScript and React
 - Practicing problem-solving regularly
 - Building Portfolio webpage
 
