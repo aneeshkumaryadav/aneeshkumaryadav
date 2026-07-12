@@ -22,7 +22,7 @@ I’m AI/ML student building strong fundamentals in data structures, problem-sol
 
 ## 🚀 Projects
 
-1. **Audi India Clone** : https://aneeshkumaryadav.github.io/audi-india-clone/<br>
+1. **Audi India Clone** : https://aneeshkumaryadav.github.io/audi.in/<br>
    **Repository** : https://github.com/aneeshkumaryadav/audi.in/
 
 
