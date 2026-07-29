@@ -29,8 +29,8 @@ I’m AI/ML student building strong fundamentals in data structures, problem-sol
 ## 📫 Connect
 
 [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faneesh-kumar-yadav-965b4133a)](https://www.linkedin.com/in/aneesh-kumar-yadav-965b4133a)
-[![x](https://www.readmecodegen.com/api/social-icon?name=x&color=%23ffffff&link=https%3A%2F%2Fx.com%2FAneeshKY21)](https://x.com/AneeshKY21)
-[![github](https://www.readmecodegen.com/api/social-icon?name=github&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Faneeshkumaryadav)](https://github.com/aneeshkumaryadav)
+[![x](https://www.readmecodegen.com/api/social-icon?name=x&size=48&bg=%23000000&color=%23ffffff&link=https%3A%2F%2Fx.com%2FAneeshKY21)](https://x.com/AneeshKY21)
+[![github](https://www.readmecodegen.com/api/social-icon?name=github&bg=%23000000&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Faneeshkumaryadav)](https://github.com/aneeshkumaryadav)
 <!--
 **aneeshkumaryadav/aneeshkumaryadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
