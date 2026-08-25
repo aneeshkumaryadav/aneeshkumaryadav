@@ -7,15 +7,15 @@ I’m AI/ML student building strong fundamentals in data structures, problem-sol
 
 ## 💻 Tech Stack
 
-**Languages :** C, C++, HTML, CSS, JavaScript, React, Python, Java <br>
-**Currently Learning :** Data Structures, Frontend Development <br>
-**Tools :** GitHub, Git
+**Programming Languages :** Python, Java, C, C++, JavaScript <br>
+**Web Technologies:** HTML5, CSS3, React, Flask, Bootstrap, Tailwind <br>
+**Currently Learning :** Data Structures, Python Libraries<br>
+**Tools :** GitHub, Git, VSCode
 
 
 ## 📚 What I'm Working On
 
-- Strengthening DSA fundamentals  
-- Building small frontend projects with HTML, CSS, JavaScript and React
+- Strengthening DSA fundamentals 
 - Practicing problem-solving regularly
 - Building Portfolio webpage
 
