@@ -7,10 +7,11 @@ I’m AI/ML student building strong fundamentals in data structures, problem-sol
 
 ## 💻 Tech Stack
 
-**Programming Languages :** Python, Java, C, C++, JavaScript <br>
-**Web Technologies:** HTML5, CSS3, React, Flask, Bootstrap, Tailwind <br>
-**Currently Learning :** Data Structures, Python Libraries<br>
-**Tools :** GitHub, Git, VSCode
+**Programming Languages** : Python, Java, C, C++, JavaScript
+**AI/ML Libraries** : Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn
+**Web Technologies** : HTML, CSS, React, Flask, Django, Node.js
+**Databases** : MySQL, MongoDB, PostgreSQL, SQLite
+**Tools** : Git, GitHub, Jupyter Notebook, Google Colab, Linux
 
 
 ## 📚 What I'm Working On
