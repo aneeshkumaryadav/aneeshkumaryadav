@@ -1,48 +1,10 @@
-# Aneesh Kumar Yadav
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-AI/ML Student | C/C++ Foundation | HTML & CSS | Exploring Python
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aneesh%20Kumar%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=20" width="100%" alt="header"/>
 
-I’m AI/ML student building strong fundamentals in data structures, problem-solving, and software development. I focus on writing clean, efficient code and continuously improving through learning and hands-on projects.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aneesh+from+Indore%2C+India;B.Tech+AI%2FML+%7C+Building+Intelligent+Systems;Turning+Data+into+Real-World+Projects;Open+to+AI%2FML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-
-## 💻 Tech Stack
-
-**Programming Languages** : Python, Java, C, C++, JavaScript
-**AI/ML Libraries** : Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn
-**Web Technologies** : HTML, CSS, React, Flask, Django, Node.js
-**Databases** : MySQL, MongoDB, PostgreSQL, SQLite
-**Tools** : Git, GitHub, Jupyter Notebook, Google Colab, Linux
-
-
-## 📚 What I'm Working On
-
-- Strengthening DSA fundamentals 
-- Practicing problem-solving regularly
-- Building Real Life Projects
-
-
-## 🚀 Projects
-
-1. **Audi India Clone** : https://aneeshkumaryadav.github.io/audi.in/<br>
-   **Repository** : https://github.com/aneeshkumaryadav/audi.in/
-
-
-## 📫 Connect
-
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faneesh-kumar-yadav-965b4133a)](https://www.linkedin.com/in/aneesh-kumar-yadav-965b4133a)
-[![x](https://www.readmecodegen.com/api/social-icon?name=x&reverseBackground=true&link=https%3A%2F%2Fx.com%2FAneeshKY21)](https://x.com/AneeshKY21)
-[![github](https://www.readmecodegen.com/api/social-icon?name=github&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2Faneeshkumaryadav)](https://github.com/aneeshkumaryadav)
-<!--
-**aneeshkumaryadav/aneeshkumaryadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
