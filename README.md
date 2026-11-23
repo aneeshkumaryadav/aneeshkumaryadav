@@ -19,3 +19,22 @@
 I'm a **B.Tech AI/ML student** at **Indore Institute of Science and Technology (RGPV)** who builds end-to-end machine learning products, from the model to the API to the user interface. I like problems with real-world context: predicting housing prices across **38 Indore localities**, and understanding sentiment in **Hindi and English** text.
 
 I care about the full lifecycle: clean data, solid models, deployable services, and interfaces people actually enjoy using.
+</br>
+
+---
+
+## 🛠️ Tech Stack
+
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,cpp,c" alt="Languages"/>
+</p>
+
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,django" alt="Web"/>
+</p>
+
+---
