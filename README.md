@@ -10,7 +10,39 @@
 
 ---
 
+## Tech Stack
+ 
+### 🤖 AIML / Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" alt="AI/ML"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy,pandas,&size=44" alt="numpy" />
+</p>
+
+### 🌐 Full-Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,expressjs,react,nodejs,flask,django" alt="Web"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" alt="Databases"/>
+</p>
+
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,cpp,c" alt="Languages"/>
+</p>
+
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux" alt="DevOps"/>
+</p>
+
 ---
+
 
 
 <div align="center"> 
