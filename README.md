@@ -5,6 +5,13 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aneesh+from+Indore%2C+India;B.Tech+AI%2FML+%7C+Building+Intelligent+Systems;Turning+Data+into+Real-World+Predictions;Open+to+AI%2FML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+</br></br>
+
+<a href="https://linkedin.com/in/aneesh-kumar-yadav-965b4133a"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/></a>
+<a href="https://twitter.com/aneeshKY21"><img src="https://skillicons.dev/icons?i=twitter" height="42" alt="Twitter/X"/></a>
+<a href="https://stackoverflow.com/users/33238048/aneeshkumaryadav"><img src="https://skillicons.dev/icons?i=stackoverflow" height="42" alt="StackOverflow"/></a>
+<a href="https://discord.com/users/1248184174028914844"><img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord"/></a>
+<a href="mailto:aneeshky.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email"/></a>
 
 </div>
 
@@ -16,7 +23,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" alt="AI/ML"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy,pandas,&size=44" alt="numpy" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy,pandas&size=44&theme=dark&color=%23ffffff" alt="numpy" />
 </p>
 
 ### 🌐 Full-Stack Development
